@@ -1,5 +1,5 @@
 {
-    "name": "zircote/swagger-php",
+    "name": "avaibook-zircote/swagger-php",
     "type": "library",
     "license": "Apache-2.0",
     "bin": [
