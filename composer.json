@@ -22,7 +22,7 @@
         "bin-dir": "bin"
     },
     "require": {
-        "php": ">=7.2",
+        "php": ">=8.0",
         "doctrine/annotations": "^1.7",
         "symfony/finder": ">=3.4"
     },
